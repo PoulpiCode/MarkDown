@@ -16,7 +16,7 @@ tableau avec différent alignement :
 | Aligné à gauche  | est             |   Aligné à droite |
 | Aligné à gauche  | centré          |    Aligné à droite |
 
-crée un texte a copié
+crée un texte a copié :
 
     [fa=firefox /]
     [fa=firefox extras=fa-2x /]
