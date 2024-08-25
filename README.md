@@ -16,4 +16,7 @@ tableau avec différent alignement :
 | Aligné à gauche  | est             |   Aligné à droite |
 | Aligné à gauche  | centré          |    Aligné à droite |
 
-Texte normal suivi d’un <span class="bg-info text-success">texte coloré en vert sur fond bleu</span> dans un paragraphe.
+    [fa=firefox /]
+    [fa=firefox extras=fa-2x /]
+    [[fa=firefox extras=fa-3x /] Avec un lien](https://www.mozilla.org/fr/firefox/new/)
+    [fa=firefox extras=fa-4x,fa-spin /]
