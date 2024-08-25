@@ -9,6 +9,7 @@ intégré une image de Floppa :
 
 > quel beau floppa !
 
+tableau avec différent alignement :
 | Aligné à gauche  | Centré          | Aligné à droite |
 | :--------------- |:---------------:| -----:|
 | Aligné à gauche  |   ce texte        |  Aligné à droite |
