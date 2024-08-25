@@ -18,7 +18,4 @@ tableau avec différent alignement :
 
 crée un texte a copié :
 
-    [fa=firefox /]
-    [fa=firefox extras=fa-2x /]
-    [[fa=firefox extras=fa-3x /] Avec un lien](https://www.mozilla.org/fr/firefox/new/)
-    [fa=firefox extras=fa-4x,fa-spin /]
+    [test]
