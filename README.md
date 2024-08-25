@@ -16,6 +16,8 @@ tableau avec différent alignement :
 | Aligné à gauche  | est             |   Aligné à droite |
 | Aligné à gauche  | centré          |    Aligné à droite |
 
-crée un texte a copié :
+crée un texte a copié(il faut mettre un tab avant d'insérer le texte a copié) :
 
     [test]
+    [test]    
+    mettre le texte
