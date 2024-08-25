@@ -16,4 +16,4 @@ tableau avec différent alignement :
 | Aligné à gauche  | est             |   Aligné à droite |
 | Aligné à gauche  | centré          |    Aligné à droite |
 
-Texte normal suivi d’un <span style="color: #26B260">texte coloré en vert</span> dans un paragraphe.
+Texte normal suivi d’un <span class="bg-info text-success">texte coloré en vert sur fond bleu</span> dans un paragraphe.
